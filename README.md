@@ -1,2 +1,2 @@
 # django-docker-first
-Learning docker.
+Docker learning.
